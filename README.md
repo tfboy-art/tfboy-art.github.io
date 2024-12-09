@@ -1,6 +1,6 @@
-# 小衰的奇妙小网站 :link: https://tfboy-art.github.io 
-### :page_facing_up: [1](https://tfboy-art.github.io/tag.html) 
+# 是小衰啊 :link: https://tfboy-art.github.io 
+### :page_facing_up: [2](https://tfboy-art.github.io/tag.html) 
 ### :speech_balloon: 0 
-### :hibiscus: 5 
-### :alarm_clock: 2024-11-21 21:28:18 
+### :hibiscus: 2513 
+### :alarm_clock: 2024-12-09 22:30:40 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
